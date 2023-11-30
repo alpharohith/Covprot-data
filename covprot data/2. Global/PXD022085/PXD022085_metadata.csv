@@ -1,0 +1,10 @@
+Metadata_Id,Patient_Id,Status,Age,Sex,CT,Grouping,Clinical_Symptoms,Ventilation,Outcome
+M6,S6 (C1),Negative,29,M,-,Negative,-,Invasive ventilator (SIMV),-
+M7,S7 (C2),Negative,58,M,-,Negative,-,Invasive ventilator (SIMV),-
+M8,S8 (C3),Negative,41,M,-,Negative,-,Invasive ventilator (SIMV),-
+M9,S9 (C4),Negative,45,M,-,Negative,-,Invasive ventilator (SIMV),-
+M1,S1,Positive,71,M,-,Positive,"Fever, Cough, dyspnea",Invasive ventilator (SIMV),-
+M2,S2,Positive,68,M,-,Positive,"Fever, Cough, dyspnea",Invasive ventilator (SIMV),-
+M3,S3,Positive,56,M,-,Positive,"Fever, dyspnea",ECMO (SIMV),-
+M4,S4,Positive,51,M,-,Positive,"Fever, Cough, dyspnea",Invasive (SIMV),-
+M5,S5,Positive,42,M,-,Positive,"Fever, dyspnea",ECMO (SIMV),-

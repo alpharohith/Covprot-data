@@ -1,0 +1,15 @@
+Metadata_Id,Patient_Id,Status,Age,Sex,CT,Grouping,Clinical_Symptoms,Ventilation,Outcome
+M1,normal_lung_1,Negative,-,-,-,Negative,lung cancer,-,-
+M2,normal_lung_2,Negative,-,-,-,Negative,lung cancer,-,-
+M3,normal_lung_3,Negative,-,-,-,Negative,lung cancer,-,-
+M4,normal_lung_4,Negative,-,-,-,Negative,lung cancer,-,-
+M5,normal_lung_5,Negative,-,-,-,Negative,lung cancer,-,-
+M6,normal_lung_6,Negative,-,-,-,Negative,lung cancer,-,-
+M7,normal_lung_7,Negative,-,-,-,Negative,lung cancer,-,-
+M8,normal_lung_8,Negative,-,-,-,Negative,lung cancer,-,-
+M9,infected_lung_1,Positive,65,Male,-,Severe,"fever, dry cough",-,death
+M10,infected_lung_1_2,Positive,65,Male,-,Severe,"fever, dry cough",-,death
+M11,infected_lung_2,Positive,65,Male,-,Severe,"fever, dry cough",-,death
+M12,infected_lung_2_2,Positive,65,Male,-,Severe,"fever, dry cough",-,death
+M13,infected_lung_3,Positive,75,Female,-,Severe,"cough, wheezing, accompanied by white sputum, nausea, little urine, abdominal pain, diarrhea, and muscle and joint aches",-,death
+M14,infected_lung_3_2,Positive,75,Female,-,Severe,"cough, wheezing, accompanied by white sputum, nausea, little urine, abdominal pain, diarrhea, and muscle and joint aches",-,death
